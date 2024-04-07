@@ -1,10 +1,9 @@
 """Intro: comandos, tipos de datos. String. Print. Input
 """
 
-#Python es un lenguaje de programación que contiene, entre otros elementos, comandos
-#(también llamados palabras claves) y variables.
-#Los comandos o palabras clave se escriben en inglés y generalmente
-#van seguidos de un paréntesis en el cual se inserta la información necesaria para el funcionamiento del comando.
+#Python es un lenguaje de programación que contiene, entre otros elementos, funciones
+#Las funciones se escriben en inglés y generalmente
+#van seguidos de un paréntesis en el cual se inserta la información necesaria para el funcionamiento de la función
 #Por ejemplo: print, cuya función es arrojar cosas a la pantalla para mostrarlas
 
 print("Hola Mundo") #> Hola Mundo
