@@ -1,4 +1,4 @@
-'''Loop For, Loop While
+'''Loop For, Loop While, palabras reservadas
 '''
 
 # Los loops son repeticiones de bucles que nos permiten realizar una acción una determinada cantidad de veces
