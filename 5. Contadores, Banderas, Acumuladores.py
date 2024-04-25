@@ -1,6 +1,8 @@
-'''Contadores, Banderas, Acumuladores
+'''Contadores, Banderas, Acumuladores, Constantes
 '''
-
+# Una constante es un valor que jamás cambia a lo largo del código.
+# Se representa en una variable cuyo nombre se escribe con mayúscula. Ejemplo
+# PI = 3.14
 # Contadores, Acumuladores y Banderas
 # Los contadores y acumuladores son variables que nos permiten llevar la cuenta de algunas cosas.
 # Un contador lleva la cuenta de una acción, un ciclo o una cantidad de eventos.
